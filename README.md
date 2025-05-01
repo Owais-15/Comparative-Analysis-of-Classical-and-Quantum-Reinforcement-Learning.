@@ -1,4 +1,4 @@
-# 🔬 Hybrid Quantum-Classical Reinforcement Learning on FrozenLake (8x8)
+# 🔬Comparative study of Q-Learning, Deep Q-Network (DQN), and Hybrid Quantum Q-Learning on FrozenLake using classical and quantum reinforcement learning techniques.
 
 This repository contains a comprehensive experiment comparing **Q-Learning**, **Deep Q-Network (DQN)**, and a **Hybrid Quantum Q-Learning** algorithm using the OpenAI Gym FrozenLake-v1 environment (8x8 grid), both in slippery and non-slippery modes.
 
