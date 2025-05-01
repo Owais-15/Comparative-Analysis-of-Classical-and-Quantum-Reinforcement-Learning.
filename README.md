@@ -21,13 +21,6 @@ This repository contains a comprehensive experiment comparing **Q-Learning**, **
 
 ---
 
-## 📊 Summary of Results
-
-| Algorithm         | Non-Slippery Success | Slippery Success | Avg. Reward | Avg. Steps | Training Time |
-|------------------|----------------------|------------------|-------------|------------|----------------|
-| **Q-Learning**    | ~80.5–80.7%          | ~11.4–11.6%      | ~0.80 / ~0.07 | ~43 / ~15   | ~10–15 mins     |
-| **DQN**           | 100%                 | ~71–80%          | ~0.2 / ~0.5–1.0 | 6 / 41–66  | ~30–40 mins     |
-| **Quantum Hybrid**| 100% (possible overfit) | ~35–65%       | ~0.2–0.3 / ~-0.5 | 6 / 10–56  | ~1–2 hours      |
 
 ### 📈 Key Metrics
 - **Cumulative Success Rate**
@@ -37,25 +30,7 @@ This repository contains a comprehensive experiment comparing **Q-Learning**, **
 - **Training Time**
 - **Quantum Circuit Depth & Shots**
 
-### 🧪 Equations Used
-- Cumulative success rate  
-  \[
-  \text{Success Rate} = \frac{\text{Successful Episodes}}{\text{Total Episodes}}
-  \]
-- Average reward  
-  \[
-  \text{Avg. Reward} = \frac{1}{N} \sum_{i=1}^N \sum_{t=1}^{T_i} R(s_t, a_t, s_{t+1})
-  \]
-- Average steps  
-  \[
-  \text{Avg. Steps} = \frac{1}{N} \sum_{i=1}^N T_i
-  \]
-- Q-table change  
-  \[
-  \Delta Q = \sqrt{\sum_{s, a} \left[ Q_{\text{new}}(s, a) - Q_{\text{old}}(s, a) \right]^2}
-  \]
 
----
 
 ## 🧠 Technologies Used
 
@@ -69,7 +44,5 @@ This repository contains a comprehensive experiment comparing **Q-Learning**, **
 | PennyLane    | Quantum circuit integration          |
 | Google Colab | Cloud-based experimentation          |
 
----
 
-## 📁 File Structure
 
