@@ -56,7 +56,7 @@ This repository contains a comprehensive experiment comparing **Q-Learning**, **
 
 ---
 
-## 📄 Published Paper
+## 📄 Paper Details
 
 | Field | Details |
 |---|---|
