@@ -21,6 +21,14 @@ This repository contains a comprehensive experiment comparing **Q-Learning**, **
 
 ---
 
+## 📄 Paper Details
+
+| Field | Details |
+|---|---|
+| **Title** | Comparative study of Q-Learning, Deep Q-Network (DQN), and Hybrid Quantum Q-Learning on FrozenLake using classical and quantum reinforcement learning techniques.|
+| **DOI** | [10.5281/zenodo.19608075](https://doi.org/10.5281/zenodo.15319964)|
+
+---
 
 ## 📈 Key Metrics
 - **Cumulative Success Rate**
@@ -55,13 +63,6 @@ This repository contains a comprehensive experiment comparing **Q-Learning**, **
 **Thesis**: "Comparative study of Q-Learning, Deep Q-Network (DQN), and Hybrid Quantum Q-Learning on FrozenLake using classical and quantum reinforcement learning techniques."
 
 ---
-
-## 📄 Paper Details
-
-| Field | Details |
-|---|---|
-| **Title** | Comparative study of Q-Learning, Deep Q-Network (DQN), and Hybrid Quantum Q-Learning on FrozenLake using classical and quantum reinforcement learning techniques.|
-| **DOI** | [10.5281/zenodo.19608075](https://doi.org/10.5281/zenodo.15319964) |
 
 **BibTeX Citation:**
 
